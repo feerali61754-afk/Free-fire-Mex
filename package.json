@@ -1,0 +1,1 @@
+{\n  "name": "tournament-app",\n  "version": "1.0.0",\n  "description": "A tournament application",\n  "main": "index.js",\n  "scripts": {\n    "start": "node server/index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.12.3",\n    "jsonwebtoken": "^8.5.1",\n    "bcrypt": "^5.0.1"\n  }\n}

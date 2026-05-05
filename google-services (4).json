@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638260634817",
+    "firebase_url": "https://my-panel-1-9b57a-default-rtdb.firebaseio.com",
+    "project_id": "my-panel-1-9b57a",
+    "storage_bucket": "my-panel-1-9b57a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638260634817:android:25c03b350cf690c0c7e040",
+        "android_client_info": {
+          "package_name": "com.vip.zenox.gamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638260634817-0l5vnvji15otl826tbs89a1g5vjkqa1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB244zXnX04LRyJGQh9_ZSWnxBE0sO6sY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638260634817-0l5vnvji15otl826tbs89a1g5vjkqa1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
